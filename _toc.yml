@@ -1,0 +1,5 @@
+format: jb-book
+root: intro
+
+chapters:
+  - file: notebooks/Parcial_ML_Clasificacion_VF

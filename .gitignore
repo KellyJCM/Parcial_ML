@@ -1,0 +1,5 @@
+# Ignorar archivos de datos grandes
+data/*.csv
+
+# Ignorar carpeta de construcción del Jupyter Book
+_build/
